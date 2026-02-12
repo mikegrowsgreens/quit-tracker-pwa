@@ -2,6 +2,14 @@
 
 Two progressive web apps for tracking recovery from substance use, built with React (Babel standalone), designed for mobile-first offline use.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="270" alt="Dashboard" />
+  <img src="screenshots/milestones.png" width="270" alt="Milestones" />
+  <img src="screenshots/cravings.png" width="270" alt="Cravings Log" />
+</p>
+
 ## Apps
 
 ### Clear Mind (Cannabis)
